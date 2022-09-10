@@ -15,8 +15,9 @@ Viewing site and updated code:
 
 https://jeromemn.github.io/Challenge-one/
 
-##Credits
+## Credits
 Github user: Xandromus
+
 https://github.com/coding-boot-camp/urban-octo-telegram
 
 ## License
