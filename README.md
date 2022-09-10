@@ -1,5 +1,5 @@
-# Code Refactor Starter Code
-# Challeng-one coding refractor
+# Horiseon 
+# Challeng-one code refractor
 
 The goal was to rework the code to increase accessibility. Make the code better optimized for search engines, and display semantic elements.
 This project was done to understand how to refract code, and utilize HTML and CSS more efficently. Excess and repetitive code was discarded for more compact lines 
